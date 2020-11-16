@@ -1,0 +1,24 @@
+{
+  "name": "jdenticon",
+  "version": "1.1.0",
+  "description": "Javascript identicon generator",
+  "main": "jdenticon.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lotos2021/jdenticon"
+  },
+  "bugs": {
+    "url": "https://github.com/Lotos2021/jdenticon/issues"
+  },
+  "keywords": [
+    "javascript",
+    "identicon",
+    "jdenticon"
+  ],
+  "author": "Archer <novikova835@gmail.com>",
+  "license": "zlib license",
+
+  "homepage": "https://github.com/Lotos2021/jdenticon"
+}

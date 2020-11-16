@@ -1,0 +1,10 @@
+utils
+obj
+bin
+releases
+*.nuspec
+*.bat
+.gitignore
+*.template.*
+header.txt
+bower.json
